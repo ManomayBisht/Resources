@@ -9,6 +9,8 @@ A collection of resources for learning cybersecurity
 - [Reddit](#reddit)
 - [Online Material](#features)
 
+<br/>
+
 <a name="youtube"></a>
 ## Youtube
 
@@ -24,8 +26,6 @@ https://www.youtube.com/c/DavidBombal.
 https://www.youtube.com/c/JoeHellethemayor (Has free courses on this channel).
 https://www.youtube.com/c/professormesser (Has free courses on this channel).
 
-<br/>
-<br/>
 <br/>
 
 <a name="platform"></a>
@@ -57,8 +57,6 @@ https://www.youtube.com/c/professormesser (Has free courses on this channel).
 **Account Types:**  N/A
 
 <br/>
-<br/>
-<br/>
 
 ## Reddit <a name="reddit"></a>
 * [r/hacking](https://www.reddit.com/r/hacking/ "Malware")
@@ -73,8 +71,6 @@ https://www.youtube.com/c/professormesser (Has free courses on this channel).
 * [r/homelab](https://www.reddit.com/r/homelab/ "HomeLab")
 * [r/malware](https://reddit.com/r/Malware/ "Malware")
 
-<br/>
-<br/>
 <br/>
 
 ## Online Material <a name="usage"></a>
