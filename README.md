@@ -7,7 +7,7 @@ A collection of resources for learning cybersecurity
 - [Youtube](#youtube)
 - [Platform](#platform)
 - [Reddit](#reddit)
-- [Online Material](#features)
+- [Online Material](#usage)
 
 <br/>
 
