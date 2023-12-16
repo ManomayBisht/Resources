@@ -83,3 +83,5 @@ https://www.youtube.com/c/professormesser (Has free courses on this channel).
 
 [Cybrary](https://www.cybrary.it/): Cybrary is the fastest growing, fastest-moving catalog in the industry. By working with an elite community of instructors, experts, and thought leaders, as well as cutting edge hands-on learning providers, we deliver relevant and high-quality content that is accessible anytime, anywhere.
 
+[SoftCopies for Programmming](https://drive.google.com/drive/u/0/mobile/folders/1aLufHh0pnYBHXCg6NdygxHIKQrBh4Jbv): Set of books useful for students who are new into competetive programming and are keen to learn DSA.
+
